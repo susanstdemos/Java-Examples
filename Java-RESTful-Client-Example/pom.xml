@@ -52,7 +52,7 @@
     <dependency>
       <groupId>org.glassfish.jersey.media</groupId>
       <artifactId>jersey-media-json-jackson</artifactId>
-      <version>2.23.1</version>
+      <version>2.26</version>
     </dependency>
     <!-- End Jersey dependencies -->
 
@@ -60,7 +60,7 @@
     <dependency>
       <groupId>org.jboss.resteasy</groupId>
       <artifactId>resteasy-client</artifactId>
-      <version>3.0.17.Final</version>
+      <version>3.1.0.Final</version>
     </dependency>
     <dependency>
       <groupId>org.jboss.resteasy</groupId>
